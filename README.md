@@ -2,6 +2,6 @@
 
 ## Summary 
 
-#### This repo contains all the notes taken by Ahmed for webdev LHL. 
+#### This repository contains all the notes taken by [Ahmed](https://github.com/ahmedtarabia) for webdev LHL. 
 
 
